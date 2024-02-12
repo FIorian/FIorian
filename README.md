@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FIorian
 - 👀 I’m interested in C++, HPC, rendering, embeded systems
-- 🌱 I’m currently learning CUDA
-- 💞️ I’m looking to collaborate on optimization
+- 🌱 I’m currently learning advanced C++
 - 📫 How to reach me florian.gaeremynck@gmail.com
 
 <!---
