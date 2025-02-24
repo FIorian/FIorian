@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FIorian
-- 👀 I’m interested in gamedev, HPC, rendering, embeded systems
+- 👀 I’m interested in gamedev, HPC, simulation, rendering, embeded systems
 - 🌱 I’m currently learning One-Shot image recognition
 - 📫 How to reach me florian.gaeremynck@proton.me
 - 💼 For more, please see [my portfolio](https://floriang.cargo.site/)
